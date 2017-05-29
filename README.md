@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://raw.githubusercontent.com/witleetaehun/witleetaehun.github.io/master/images/genotech_logo.png](src)
+[Link](url) and ![Image](https://raw.githubusercontent.com/witleetaehun/witleetaehun.github.io/master/images/genotech_logo.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
